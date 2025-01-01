@@ -32,6 +32,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact [yourname](mailto:tahirtechlab@gmail.com).
+For any inquiries, please contact [Contact me](mailto:tahirtechlab@gmail.com).
 
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
